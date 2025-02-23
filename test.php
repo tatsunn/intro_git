@@ -3,4 +3,5 @@
 // ➂git add
 // ➃git commit
 //➄git rm
+//➅git status
 // ?>
