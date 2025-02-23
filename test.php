@@ -4,4 +4,5 @@
 // ➃git commit
 //➄git rm
 //➅git status
+//➆git diff
 // ?>
