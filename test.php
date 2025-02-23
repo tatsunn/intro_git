@@ -2,4 +2,5 @@
 // ➁基本的なワークフローの練習
 // ➂git add
 // ➃git commit
+//➄git rm
 // ?>
